@@ -1,18 +1,18 @@
-##  📋 - Optional Info:
+##  📋 Optional Info:
 
 (If anything to add, keep it short)
 
-## ⚡   - Subtasks:
+## ⚡   Subtasks:
 
 - [ ] 
 - [ ] 
 - [ ] 
 
-##  🥷   - Reviewer:
+##  🥷   Reviewer:
 
 @
 
-## 🔗  -  Work doc(s) / links:
+## 🔗  Work doc(s) / links:
 
 - [ ] 
 - [ ] 
